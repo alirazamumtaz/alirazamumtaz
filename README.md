@@ -1,8 +1,8 @@
 # @alirazamumtaz
 
-## Wordpress Developer
+## Computer Science Student
 
-[Download Resume](https://drive.google.com/file/d/18-MfyJxhy0Z3CBiljuw1z134gxh_Wy6Y/view?usp=sharing)</div>
+[Download Resume](https://drive.google.com/file/d/18-MfyJxhy0Z3CBiljuw1z134gxh_Wy6Y/view?usp=sharing)
 
 <div id="lead-down"><span></span></div>
 
@@ -20,11 +20,11 @@
 
 </div>
 
-<div class="col-md-8">
+My name is Ali Raza. I have done intermediate in Computer Sciences and currently doing Bachelor's degree in Computer Science.
+  
+  [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alirazamumtaz&theme=radical&show_icons=true)](https://github.com/alirazamumtaz/github-readme-stats)
 
-Well! I am Ali Raza. I have done intermediate in Computer Sciences and currently doing Bachelor's degree in Computer Science. I’m ambassador of Student Develper Club at my university. I'm raising my skills bar by exploring python programming. I’m providing my services as WordPress developer on Fiverr.com. Moreover I'm also doing some Photography just for my side passion. I have also an active membership as Photographer in PUCIT-NC Sport Society and PUCIT-NC Event Management Society. Thank you.
-
-</div>
+![Ali's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alirazamumtaz&theme=radical&layout=compact)
 
 </div>
 
@@ -99,7 +99,13 @@ I am working as WordPress developer as well as Virtual Assistant at Fiverr.com a
 </div>
 
 <div id="projects" class="background-alt">
-
+  
+## Projects
+  
+  ### Hack Assembler
+  I have written hack assembeler for hack assebmly in C++. Project files attached in repo.
+  
+</div>
 <div id="skills">
 
 ## Skills
