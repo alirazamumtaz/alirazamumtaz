@@ -38,7 +38,7 @@ My name is Ali Raza. I have done intermediate in Computer Sciences and currently
 
 <div id="experience-timeline">
 
-<div data-date="March 2021 – Present">
+<div data-date="March 2021 – May 2021">
 
 ### Qabil HR and Training Services (Pvt.) Ltd.
 
