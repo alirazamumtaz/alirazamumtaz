@@ -20,7 +20,7 @@
 
 </div>
 
-My name is Ali Raza. I have done intermediate in Computer Sciences and currently doing Bachelor's degree in Computer Science.
+### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ali Raza!
   
   [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alirazamumtaz&theme=radical&show_icons=true)](https://github.com/alirazamumtaz/github-readme-stats)
 
