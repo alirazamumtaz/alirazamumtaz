@@ -1,118 +1,67 @@
-# @alirazamumtaz
+[![Header](https://raw.githubusercontent.com/alirazamumtaz/alirazamumtaz/master/banner.png "Header")](https://alirazamumtaz.blogspot.com/)
 
-## Computer Science Student
+# Hello, folks! <img src="https://raw.githubusercontent.com/alirazamumtaz/alirazamumtaz/master/wave.gif" width="30px">
 
-[Download Resume](https://drive.google.com/file/d/18-MfyJxhy0Z3CBiljuw1z134gxh_Wy6Y/view?usp=sharing)
+My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a high place in Mobile Development Specifically iOS Development . I'm highly proficient in C, C++, Python and SWIFT. You can find me on on [![LinkedIn][3.2]][3].
 
-<div id="lead-down"><span></span></div>
+<!-- ## &#x270d; Blog & Writing -->
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-</div>
+## &#x1f4c8; GitHub Stats
 
-<div id="about">
+<a href="https://github.com/alirazamumtaz/alirazamumtaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazamumtaz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/alirazamumtaz/alirazamumtaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alirazamumtaz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" />
+</a>
 
-<div class="container">
+<a href="https://github.com/alirazamumtaz/ios-apps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alirazamumtaz&repo=ios-apps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<div class="row">
 
-<div class="col-md-4">
+<a href="https://github.com/alirazamumtaz/hack-assembler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alirazamumtaz&repo=hack-assembler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
-## About Me
+<!-- links to social media icons -->
 
-</div>
+<!-- icons with padding -->
 
-### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ali Raza!
-  
-  [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alirazamumtaz&theme=radical&show_icons=true)](https://github.com/alirazamumtaz/github-readme-stats)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-![Ali's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alirazamumtaz&theme=radical&layout=compact)
+<!-- icons without padding -->
 
-</div>
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/alirazamumtaz/alirazamumtaz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-</div>
 
-</div>
+<!-- links to your social media accounts -->
 
-<div id="experience" class="background-alt">
+[1]: https://twitter.com/alirazamumtaz
+[2]: https://github.com/alirazamumtaz
+[3]: https://www.linkedin.com/in/alirazamumtaz/
 
-## Experience
 
-<div id="experience-timeline">
-
-<div data-date="March 2021 – May 2021">
-
-### Qabil HR and Training Services (Pvt.) Ltd.
-
-#### Technical Recruiter
-
-I am working as assistant technical recruiter at Qabil where my task was to analyze resumes and making schedules for tests and interviews for fresh graduates of different universities.
-
-</div>
-
-<div data-date="October 2020 – Present">
-
-### Student Developer Club PUCIT - Lahore
-
-#### Ambassador
-
-I Am currently working as event ambassador Google Student Developer Club at my University for different Boot Camps and Code Jams.
-
-</div>
-
-<div data-date="September 2015 – September 2016">
-
-### [Fiverr.com](https://www.fiverr.com/alirazamumtaz)
-
-#### WordPress Developer
-
-I am working as WordPress developer as well as Virtual Assistant at Fiverr.com any some other freelance platforms. User Name: [alirazamumtaz](https://www.fiverr.com/alirazamumtaz)
-
-</div>
-
-</div>
-
-</div>
-
-<div id="education">
-
-## Education
-
-<div class="education-block">
-
-### Punjab University College of Information and Technology (PUCIT) - Lahore
-
-<span class="education-date">2019 - Present</span>
-
-#### Bachelor of Science in Computer Science
-
-</div>
-
-<div class="education-block">
-
-### Punjab Group of Colleges - Okara
-
-<span class="education-date">Autgust 2017 - October 2019</span>
-
-#### Intermediate in Computer Science
-
-</div>
-
-</div>
-
-<div id="projects" class="background-alt">
-  
-## Projects
-  
-  ### Hack Assembler
-  I have written hack assembeler for hack assebmly in C++. Project files attached in repo.
-  
-</div>
-<div id="skills">
-
-## Skills
-
-*   Python
-*   C
-*   C++
-*   WordPress
-
-</div>
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
