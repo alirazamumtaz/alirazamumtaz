@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/alirazamumtaz/alirazamumtaz/master/banner.png "Header")](https://alirazamumtaz.blogspot.com/)
+<!-- [![Header](https://raw.githubusercontent.com/alirazamumtaz/alirazamumtaz/master/banner.png "Header")](https://alirazamumtaz.blogspot.com/) -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/alirazamumtaz/alirazamumtaz/master/wave.gif" width="30px">
 
