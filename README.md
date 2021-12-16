@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/alirazamumtaz/alirazamumtaz/master/wave.gif" width="30px">
 
-My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a high place in Mobile Development Specifically iOS Development . I'm highly proficient in C, C++, Python and SWIFT. You can find me on on [![LinkedIn][3.2]][3].
+My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a high place in Mobile Development Specifically iOS Development . I'm highly proficient in C, C++, Python and SWIFT. You can find me on [![LinkedIn][3.2]][3].
 
 <!-- ## &#x270d; Blog & Writing -->
 ## 🔧 Technologies & Tools
@@ -10,10 +10,10 @@ My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a h
 ![](https://img.shields.io/badge/OS-mac%20os-000000?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Xcode-007ACC?style=flat&logo=Xcode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-FA7343?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-00599C?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Swift-FA7343?style=flat&logo=swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-firebase-ffca28?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
