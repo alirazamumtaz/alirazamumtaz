@@ -4,6 +4,7 @@
 
 My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a high place in Mobile Development Specifically iOS Development . I'm highly proficient in C, C++, Python and SWIFT. You can find me on [![LinkedIn][3.2]][3].
  -->
+ <p align="left"> <a href="https://twitter.com/AliRazaMumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/AliRazaMumtaz?logo=twitter&style=for-the-badge" alt="AliRazaMumtaz" /></a> </p>
 <!-- ## &#x270d; Blog & Writing -->
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
