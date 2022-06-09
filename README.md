@@ -6,7 +6,7 @@ My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a h
  -->
  <a href="https://twitter.com/AliRazaMumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/AliRazaMumtaz?logo=twitter&style=for-the-badge" alt="AliRazaMumtaz" />
  </a>
-<!-- ## &#x270d; Blog & Writing -->
+<!-- ## &#x270d; Blog & Writing 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-mac%20os-000000?style=flat&logo=apple&logoColor=white&color=2bbc8a)
@@ -17,9 +17,8 @@ My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a h
 ![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-firebase-ffca28?style=flat&logo=firebase&logoColor=white&color=2bbc8a) -->
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alirazamumtaz/alirazamumtaz">
@@ -29,8 +28,8 @@ My name is Ali Raza and I'm an entry level iOS Developer striving to achieve a h
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alirazamumtaz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" />
 </a>
 
-<a href="https://github.com/alirazamumtaz/ios-apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alirazamumtaz&repo=ios-apps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/alirazamumtaz/system-programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alirazamumtaz&repo=system-programming&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
