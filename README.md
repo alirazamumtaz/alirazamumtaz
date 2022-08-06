@@ -1,4 +1,4 @@
- <a href="https://twitter.com/AliRazaMumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/AliRazaMumtaz?logo=twitter&style=for-the-badge" alt="AliRazaMumtaz" />
+ <a href="https://twitter.com/AliRazaMumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/AliRazaMumtaz?logo=twitter&style=for-the-badge" alt="AliRazaMumtaz" /> ![GitHub Views](https://komarev.com/ghpvc/?username=alirazamumtaz
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alirazamumtaz/alirazamumtaz">
