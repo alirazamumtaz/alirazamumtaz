@@ -2,8 +2,9 @@
 
 I am a Computer Science Student interested in Computer Security.\
 🔭Working on:
-+ Exploit Development
++ Binary Exploitation
 + Security Research
++ Android Kernel Vulnerability Research
 
 ## &#x1f4c8; GitHub Stats
 
