@@ -3,8 +3,7 @@
 I am a Computer Science Student interested in Computer Security.\
 🔭Working on:
 + Binary Exploitation
-+ Security Research
-+ Android Kernel Vulnerability Research
++ Kernel Vulnerability Research and Exploitation
 
 <a href="https://twitter.com/AliRazaMumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/AliRazaMumtaz?logo=twitter&style=for-the-badge" alt="AliRazaMumtaz"></a>
 
