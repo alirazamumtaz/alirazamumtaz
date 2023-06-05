@@ -1,14 +1,23 @@
- ### Hi there 👋
-
-I am a Computer Science Student interested in Computer Security.\
-🔭Working on:
-+ Binary Exploitation
-+ Kernel Vulnerability Research and Exploitation
-
+ 
 <a href="https://twitter.com/AliRazaMumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/AliRazaMumtaz?logo=twitter&style=for-the-badge" alt="AliRazaMumtaz"></a>
 
-## &#x1f4c8; GitHub Stats
 
+```
+ $ cat about.txt
+👋 Hi there, I am a Computer Science Student interested in Computer Security.
+🔭Working on:
++ Binary Exploitation
++ Linux Kernel Vulnerability Research and Exploitation
+
+$ whoami
+Security Researcher
+
+$ groups
+Member of [Cyber@PU], [GDSC]
+
+$ locale
+LANG=ur_PK.UTF-16
+```
 <a href="https://github.com/alirazamumtaz/alirazamumtaz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazamumtaz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
