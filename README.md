@@ -4,10 +4,11 @@
 
 ```
  $ cat about.txt
-👋 Hi there, I am a Computer Science Student interested in Computer Security.
+👋 Hi there, I am a Malware Researcher @ Ebryx (Pvt.) Ltd.
 🔭Working on:
++ PWNing
 + Binary Exploitation
-+ Linux Kernel Vulnerability Research and Exploitation
++ Liux Kerenl Exploitation (NDay)
 
 $ whoami
 Security Researcher
