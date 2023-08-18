@@ -4,11 +4,7 @@
 
 ```
  $ cat about.txt
-👋 Hi there, I am a Malware Researcher @ Ebryx (Pvt.) Ltd.
-🔭Working on:
-+ PWNing
-+ Binary Exploitation
-+ Liux Kerenl Exploitation (NDay)
+Currently employed as a Security Researcher focusing on the Linux Kernel, specializing in n-day exploitation. Transitioning towards zero-day discovery and proficiently crafting Proof of Concepts (PoC) and exploits for the Linux Kernel. Future aspirations include venturing into Android Kernel Exploration.
 
 $ whoami
 Security Researcher
